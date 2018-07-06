@@ -1,0 +1,31 @@
+﻿메인페이지
+현재 상영작/순위
+영화 리뷰
+영화 관련 정보&뉴스
+회원가입&로그인
+
+
+영화 리뷰 게시판.(평점,리뷰,추천영화 포함)
+게시판DB- 순번,영화명,제목,글쓴이,내용,첨부파일(jpg 등),날짜
+
+
+현재 상영작/순위 정보 게시판
+게시판DB- 전날의 순위, 영화포스터, 영화명
+영화 클릭시 영화 정보페이지로 이동?
+
+
+영화 관련 정보&뉴스 게시판
+게시판DB- 순번, 제목, 글쓴이, 내용, 첨부파일(jpg 등), 날짜
+페이지 출력:기사썸네일 이미지,기사 제목, 날짜
+
+
+회원가입&로그인 기능
+회원정보DB
+
+
+공통사항
+페이지별 html+css+java script
+
+
+영화관련 DB 링크
+http://www.kobis.or.kr/kobisopenapi/homepg/apiservice/searchServiceInfo.do?serviceId=searchDailyBoxOffice
