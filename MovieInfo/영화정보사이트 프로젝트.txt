@@ -3,6 +3,7 @@
 영화 리뷰
 영화 관련 정보&뉴스
 회원가입&로그인
+고객센터?
 
 
 영화 리뷰 게시판.(평점,리뷰,추천영화 포함)
@@ -19,7 +20,7 @@
 페이지 출력:기사썸네일 이미지,기사 제목, 날짜
 
 
-회원가입&로그인 기능
+회원가입&로그인,회원정보 수정 기능
 회원정보DB
 
 
@@ -29,3 +30,12 @@
 
 영화관련 DB 링크
 http://www.kobis.or.kr/kobisopenapi/homepg/apiservice/searchServiceInfo.do?serviceId=searchDailyBoxOffice
+
+
+참고 사이트
+
+다음 영화
+http://movie.daum.net/main/new#slide-1-0
+
+네이버 영화
+https://movie.naver.com
